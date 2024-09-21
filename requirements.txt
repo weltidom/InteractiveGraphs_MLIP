@@ -1,38 +1,38 @@
-blinker==1.8.2
-Brotli==1.1.0
-certifi==2024.8.30
-cffi==1.17.1
-charset-normalizer==3.3.2
-click==8.1.7
-dash==2.18.1
-Flask==3.0.3
-h2==4.1.0
+blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1715091184126/work
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1725267521616/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1725278078093/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1725560565029/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+click @ file:///home/conda/feedstock_root/build_artifacts/click_1692311806742/work
+dash @ file:///home/conda/feedstock_root/build_artifacts/dash_1726289038831/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1712667726126/work
+gunicorn @ file:///Users/runner/miniforge3/conda-bld/gunicorn_1724955916760/work
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
 hpack==4.0.0
-hyperframe==6.0.1
-idna==3.10
-importlib_metadata==8.5.0
-itsdangerous==2.2.0
-Jinja2==3.1.4
-MarkupSafe==2.1.5
-nest_asyncio==1.6.0
-numpy==2.1.1
-packaging==24.1
-pandas==2.2.3
-pip==24.2
-plotly==5.24.1
-pycparser==2.22
-PySocks==1.7.1
-python-dateutil==2.9.0
-pytz==2024.1
-requests==2.32.3
-retrying==1.3.3
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1713372668944/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1715127149914/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1724959483434/work
+nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1725411794187/work/dist/numpy-2.1.1-cp312-cp312-macosx_10_13_x86_64.whl#sha256=277a22f4d761d7302c25b50baa168f1b34e7a409cc075b866a8f6f4854e31c01
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1726878436460/work
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1726179518483/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1717057054362/work
+retrying @ file:///home/conda/feedstock_root/build_artifacts/retrying_1721646300555/work
 setuptools==74.1.2
-six==1.16.0
-tenacity==9.0.0
-typing_extensions==4.12.2
-tzdata==2024.1
-urllib3==2.2.3
-Werkzeug==3.0.4
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1722278858289/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1726496430923/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1724330738730/work
 wheel==0.44.0
-zipp==3.20.2
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1726248574750/work
 zstandard==0.23.0
