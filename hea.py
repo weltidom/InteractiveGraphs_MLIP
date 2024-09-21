@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output, State
 import os
 
 #import data
-df = pd.read_csv('/Users/dominicwelti/Library/CloudStorage/Dropbox/Master_Thesis/data_npj/Graph_data.csv')
+df = pd.read_csv('Graph_data.csv')
 
 def calculate_rel_e(df:pd.DataFrame):
     '''Calculate normalized error. Returns dataframe with new column ["Normalized error"].'''
