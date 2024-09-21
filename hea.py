@@ -60,7 +60,7 @@ def buildPlot(df):
     # Add annotation
     fig.update_xaxes(title_text='Computational cost of inference [<i>μs/atom/step</i>]',type="log",minor_ticks='inside')
     fig.update_layout(yaxis={'title':'Normalized error'},
-                      title={'text':'Interactive graph for comparing performances between different machine learning interatomic potentials.'},
+                      title={'text':'Interactive graph for comparing performances <br> between the different machine learning interatomic potentials.'},
                       legend={'title':'Model'},
                     font_family="Serif",font_size=18,
                     template='ggplot2',
