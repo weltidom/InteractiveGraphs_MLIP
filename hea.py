@@ -115,4 +115,4 @@ def update_graph1(md, engine):
 
 # Run app and display result inline in the notebook
 if __name__ == '__main__':
-    app.run_server(mode="inline")
+    app.run_server(debug=True)
