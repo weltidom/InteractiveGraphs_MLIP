@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from dash import Dash,dcc,html
 from dash.dependencies import Input, Output, State
+import os
 
 #import data
 df = pd.read_csv('/Users/dominicwelti/Library/CloudStorage/Dropbox/Master_Thesis/data_npj/Graph_data.csv')
@@ -113,6 +114,6 @@ def update_graph1(md, engine):
     #return buildPlot(df.loc[df["MD Suite"].eq(md)])
 
 
-# Run app and display result inline in the notebook
+# Run app and display result
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True)
